@@ -1,0 +1,30 @@
+{
+  "iri": "6996c83c-ccd4-4196-b20e-95ce17fa8c19",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {},
+    "description": {}
+  },
+  "metadata": {
+    "creationDate": "2026-02-24T16:18:44.702Z",
+    "modificationDate": "2026-02-24T16:18:45.637Z"
+  },
+  "dataStores": {
+    "model": "7e97c367-fe21-4778-9529-3b85c1365797"
+  },
+  "linkedGitRepositoryURL": "",
+  "projectIri": "6996c83c-ccd4-4196-b20e-95ce17fa8c19",
+  "branch": "",
+  "representsBranchHead": true,
+  "lastCommitHash": "",
+  "activeMergeStateCount": 0,
+  "hasUncommittedChanges": true,
+  "configuration": {
+    "http://dataspecer.com/resources/local/git-remote-configuration": {
+      "publicationBranch": "publication-branch",
+      "exportFormat": "json"
+    }
+  }
+}
